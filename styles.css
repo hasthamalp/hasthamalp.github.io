@@ -8,7 +8,7 @@ body {
   height:100%;
   color:black;
   font-weight:bold;
-  animation: myanimation 10s infinite;
+  /* animation: myanimation 10s infinite; */
 }
 
 @keyframes myanimation {
