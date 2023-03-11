@@ -8,12 +8,13 @@ body {
   height:100%;
   color:black;
   font-weight:bold;
-  animation: myanimation 15s ;
+  animation: myanimation 10s ;
 }
 
 @keyframes myanimation {
   /* 0% {background-color: #DFFFD8;} */
   /* 25%{background-color:#2B3467;} */
+  100%{background-color:#3F979B;}
   100%{background-color:#3F979B;}
   /* 75%{background-color:brown;} */
   /* 100% {background-color: #698269;} */
